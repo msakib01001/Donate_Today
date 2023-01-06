@@ -31,8 +31,8 @@
     padding-bottom: 90px;
 }
 .donate{
-    width: 170px;
-    height: 60px;
+    width: 190px;
+    height: 65px;
     border-radius: 5px;
     border: none;
     background-color: #FF5959;
@@ -41,9 +41,6 @@
     position: relative;
     left: 330px;
     cursor: pointer;
-}
-.donate:hover{
-    width: 180px;
 }
 .sec1{
     text-align: center;
@@ -76,7 +73,7 @@
 }
 .tk:hover{
     color: #fff;
-    background-color: #FF5959;
+    background-color: orangered;
 }
 .sec1-donate{
     width: 170px;
@@ -88,4 +85,142 @@
     font-weight: bold;
     position: relative;
     margin-top: 35px;
+}
+.sec2-title{
+    margin-top: 90px;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.sec2-description{
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+    color: #707070;
+    margin-bottom: 70px;
+}
+.plan-container{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.plan1{
+    margin-left: 280px;
+    background-color: 
+    #bccfd1;
+    padding: 35px;
+    border-radius: 7px;
+    height: 320px;
+    width: 290px;
+}
+.plan2{
+    padding: 35px;
+    background-color: #eadada;
+    border-radius: 7px;
+    height: 320px;
+    width: 290px;
+}
+.plan3{
+    margin-right: 220px;
+    background-color: #f8f5c6;
+    padding: 35px;
+    border-radius: 7px;
+    height: 320px;
+    width: 290px;
+}
+.plan-title{
+    font-weight: bold;
+    font-size: 22px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+.plan-description{
+    font-size: 18px;
+    line-height: 24px;
+    color: #707070;
+}
+.contribute-btn{
+    height: 59px;
+    width: 225px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FF5959;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 280px;
+    margin-top: 30px;
+}
+.sec3-container{
+    display: flex;
+    gap: 200px;
+    
+}
+.text h1{
+    margin-top: 90px;
+    font-size: 40px;
+    width: 440px;
+    padding-bottom: 22px;
+    margin-left: 280px;
+}
+.text p{
+    width: 500px;
+    position: relative;
+    left: 280px;
+    font-size: 18px;
+    color: #707070;
+}
+.sec3-container img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.image{
+    width: 500px;
+    height: 400px;
+    margin-top: 90px;
+}
+
+.text2 h1{
+    font-size: 40px;
+    width: 440px;
+    position: relative;
+    left: 410px
+}
+.text2 p{
+    width: 500px;
+    font-size: 18px;
+    color: #707070;
+    position: relative;
+    left: 410px;
+}
+.sec4-container img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.sec4-container{
+    display: flex;
+    margin-top: 30px;
+}
+.text2 .contribute-btn{
+    position: relative;
+    left: 128px;
+}
+.image2{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 270px;
+    padding-top: 23px;
+}
+.sec5-title{
+    font-size: 33px;
+    text-align: center;
+}
+.sec5-des{
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+    color: #707070;
+    margin-bottom: 70px;
 }
