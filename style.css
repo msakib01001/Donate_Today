@@ -224,3 +224,45 @@
     color: #707070;
     margin-bottom: 70px;
 }
+
+.sec-6 {
+    background-color: #f8f5c6;
+    padding-top: 70px;
+    padding-left: 340px;
+    height: 100px;
+    width: 800px;
+    margin: 0 auto;
+}
+.sec-6 .email{
+    height: 50px;
+    width: 320px;
+    border: 1px solid #D9D9D9;
+    background-color:#D9D9D9;
+    border-radius: 5px;
+}
+.send{
+    height: 50px;
+    width: 155px;
+    background-color: #FF5959;
+    border: 1px solid #FF5959;
+    border-radius: 5px;
+}
+
+footer{
+    margin-top: 100px;
+    background-color: rgb(39, 38, 38);
+    padding: 40px 20px 10px 0px;
+    text-align: center;
+}
+footer p{
+    color: #fff;
+}
+.foot-p{
+    color: #707070;
+    font-size: 17px;
+    padding-top: 7px;
+}
+footer h1{
+    color: #FF5959;
+    padding-bottom: 30px;
+}
